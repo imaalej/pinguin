@@ -1,0 +1,27 @@
+{
+  "name": "pinguin",
+  "version": "1.0.0",
+  "description": "A discord bot that pings people.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaalej/pinguin.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Fun"
+  ],
+  "author": "Ibrahim Maalej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imaalej/pinguin/issues"
+  },
+  "homepage": "https://github.com/imaalej/pinguin#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
