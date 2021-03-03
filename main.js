@@ -40,5 +40,6 @@ client.on('message', message => {
 
 });
 
-//End of file.
-client.login('ODE2NDM1MDY0MjY2MDMxMTM0.YD66Zw.qOSNvt5DPcExGIy7zMKoiVF8NSg');
+//Keep at end of file.
+//Token is kept hidden.
+client.login('NA');
